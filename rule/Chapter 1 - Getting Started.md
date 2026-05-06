@@ -70,7 +70,7 @@ const invoices = [
 ];
 ```
 
-Trong chương về [thiết lập cơ sở dữ liệu của bạn](https://nextjs.org/learn/dashboard-app/setting-up-your-database), bạn sẽ sử dụng dữ liệu này để "seed" cơ sở dữ liệu của mình (đổ dữ liệu ban đầu vào).
+Trong chương về [thiết lập cơ sở dữ liệu của bạn](./Chapter 6 - Setting Up Your Database.md), bạn sẽ sử dụng dữ liệu này để "seed" cơ sở dữ liệu của mình (đổ dữ liệu ban đầu vào).
 
 ### TypeScript
 
@@ -119,4 +119,21 @@ Mở [http://localhost:3000](http://localhost:3000) trên trình duyệt của b
 
 ---
 
+## Kiểm tra kiến thức
+
+Thư mục nào chứa tất cả các tuyến đường (routes), thành phần (components) và logic cho ứng dụng của bạn?
+
+- [ ] `/public`
+- [x] `/app`
+- [ ] `/app/lib`
+- [ ] `/app/ui`
+
+---
+
 **Chúc mừng!** Bạn đã hoàn thành Chương 1. Bạn đã tạo một ứng dụng Next.js bằng ví dụ mẫu và chạy máy chủ phát triển thành công.
+
+## Tiếp theo: Chương 2: Định dạng CSS
+
+Hãy cùng làm việc với trang chủ của bạn và thảo luận về các cách khác nhau để định dạng ứng dụng.
+
+[Bắt đầu Chương 2](./Chapter 2 - CSS Styling.md)
